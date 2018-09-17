@@ -138,3 +138,4 @@
 00:10:34.097 INFO  [Metrics]       - tick 126, video recoding disabled |  3 source captures, 1355 ms/capture
 00:10:35.750 INFO  [ExEvent-17]    - Tag state with: SUM_R1/deploy
 00:10:36.098 INFO  [Metrics]       - tick 127, video recoding disabled |  3 source captures, 1355 ms/capture
+00:10:36.873 INFO  [ExEvent-28]    - Tag state with: SUM_R1/done
