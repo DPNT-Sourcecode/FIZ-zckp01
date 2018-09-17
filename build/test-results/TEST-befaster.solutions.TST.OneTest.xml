@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="befaster.solutions.TST.OneTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-09-17T22:48:05" hostname="DESKTOP-NAL2843" time="0.009">
+  <properties/>
+  <testcase name="run" classname="befaster.solutions.TST.OneTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

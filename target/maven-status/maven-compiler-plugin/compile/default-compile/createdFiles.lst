@@ -1,0 +1,14 @@
+befaster\EntryPointMapping.class
+befaster\solutions\FIZ\FizzBuzzSolution.class
+befaster\runner\TypeConversion.class
+befaster\runner\SolutionNotImplementedException.class
+befaster\solutions\SUM\SumSolution.class
+befaster\runner\Utils.class
+befaster\SendCommandToServer.class
+befaster\solutions\TST\Two.class
+befaster\solutions\TST\One.class
+befaster\solutions\CHK\CheckoutSolution.class
+befaster\solutions\HLO\HelloSolution.class
+befaster\runner\UserInputAction.class
+befaster\runner\CredentialsConfigFile.class
+befaster\runner\ConfigNotFoundException.class

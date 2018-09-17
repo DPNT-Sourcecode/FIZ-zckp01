@@ -1,0 +1,12 @@
+00:06:23.424 INFO  [main]          - Checking permissions
+00:06:23.907 INFO  [main]          - Logging initialized @2192ms to org.eclipse.jetty.util.log.Slf4jLog
+00:06:24.007 INFO  [Upload]        - Sync local files with remote
+00:06:24.009 INFO  [Metrics]       - tick   1, video recoding disabled
+00:06:24.012 INFO  [main]          - jetty-9.4.7.v20170914
+00:06:24.057 INFO  [main]          - Started ServerConnector@2e9fda69{HTTP/1.1,[http/1.1]}{localhost:41375}
+00:06:24.059 INFO  [main]          - Started @2344ms
+00:06:24.084 INFO  [Upload]        - Uploading file record/localstore/record-and-upload-20180918T000622.log
+00:06:24.171 INFO  [Upload]        - Finished uploading file record/localstore/record-and-upload-20180918T000622.log
+00:06:24.172 INFO  [Upload]        - Uploading file record/localstore/sourcecode_20180918T000623.srcs
+00:06:24.241 INFO  [Upload]        - Finished uploading file record/localstore/sourcecode_20180918T000623.srcs
+00:06:24.343 INFO  [SourceRec]     - Start recording to "sourcecode_20180918T000623.srcs"
