@@ -12,8 +12,10 @@ public class FizzBuzzSolution {
          if(Integer.toString(number).indexOf("3") != -1) sb.append("Bizz");
          if(Integer.toString(number).indexOf("5") != -1) sb.append("Fuzz");
 
-         if (sb.length() == 0) System.out.print(number);
-         else System.out.print(sb);
-         System.out.println();    }
+         	if (sb.length() == 0) 
+         	  return String.valueOf(number);
+         	else 
+        	 return sb.toString();
+         }
 
 }
