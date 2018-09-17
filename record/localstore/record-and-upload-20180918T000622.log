@@ -530,3 +530,25 @@
 00:22:53.883 INFO  [ExEvent-29]    - Tag state with: HLO_R2/deploy
 00:22:54.356 INFO  [Metrics]       - tick 496, video recoding disabled | 13 source captures, 1830 ms/capture
 00:22:54.990 INFO  [ExEvent-40]    - Tag state with: HLO_R2/done
+00:22:56.356 INFO  [Metrics]       - tick 497, video recoding disabled | 14 source captures, 2005 ms/capture
+00:22:58.357 INFO  [Metrics]       - tick 498, video recoding disabled | 15 source captures, 1586 ms/capture
+00:23:00.358 INFO  [Metrics]       - tick 499, video recoding disabled | 15 source captures, 1586 ms/capture
+00:23:02.359 INFO  [Metrics]       - tick 500, video recoding disabled | 15 source captures, 1586 ms/capture
+00:23:04.360 INFO  [Metrics]       - tick 501, video recoding disabled | 15 source captures, 1586 ms/capture
+00:23:06.361 INFO  [Metrics]       - tick 502, video recoding disabled | 15 source captures, 1586 ms/capture
+00:23:08.361 INFO  [Metrics]       - tick 503, video recoding disabled | 15 source captures, 1586 ms/capture
+00:23:10.362 INFO  [Metrics]       - tick 504, video recoding disabled | 15 source captures, 1586 ms/capture
+00:23:12.363 INFO  [Metrics]       - tick 505, video recoding disabled | 15 source captures, 1586 ms/capture
+00:23:14.363 INFO  [Metrics]       - tick 506, video recoding disabled | 15 source captures, 1586 ms/capture
+00:23:16.363 INFO  [Metrics]       - tick 507, video recoding disabled | 15 source captures, 1586 ms/capture
+00:23:18.364 INFO  [Metrics]       - tick 508, video recoding disabled | 15 source captures, 1586 ms/capture
+00:23:20.365 INFO  [Metrics]       - tick 509, video recoding disabled | 15 source captures, 1586 ms/capture
+00:23:22.365 INFO  [Metrics]       - tick 510, video recoding disabled | 15 source captures, 1586 ms/capture
+00:23:24.366 INFO  [Metrics]       - tick 511, video recoding disabled | 15 source captures, 1586 ms/capture
+00:23:26.367 INFO  [Metrics]       - tick 512, video recoding disabled | 15 source captures, 1586 ms/capture
+00:23:28.367 INFO  [Metrics]       - tick 513, video recoding disabled | 15 source captures, 1586 ms/capture
+00:23:30.368 INFO  [Metrics]       - tick 514, video recoding disabled | 15 source captures, 1586 ms/capture
+00:23:32.369 INFO  [Metrics]       - tick 515, video recoding disabled | 15 source captures, 1586 ms/capture
+00:23:34.369 INFO  [Metrics]       - tick 516, video recoding disabled | 15 source captures, 1586 ms/capture
+00:23:36.370 INFO  [Metrics]       - tick 517, video recoding disabled | 15 source captures, 1586 ms/capture
+00:23:36.938 INFO  [ExEvent-40]    - Tag state with: FIZ_R1/new
