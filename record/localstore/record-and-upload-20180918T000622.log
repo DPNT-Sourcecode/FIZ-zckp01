@@ -426,3 +426,6 @@
 00:19:42.290 INFO  [Metrics]       - tick 400, video recoding disabled |  9 source captures, 1490 ms/capture
 00:19:44.291 INFO  [Metrics]       - tick 401, video recoding disabled |  9 source captures, 1490 ms/capture
 00:19:45.515 INFO  [ExEvent-28]    - Tag state with: HLO_R1/deploy
+00:19:46.292 INFO  [Metrics]       - tick 402, video recoding disabled |  9 source captures, 1490 ms/capture
+00:19:46.684 INFO  [ExEvent-36]    - Tag state with: HLO_R1/done
+00:19:46.721 INFO  [ExEvent-29]    - Tag state with: HLO_R2/new
