@@ -1323,3 +1323,4 @@
 00:48:13.236 INFO  [ExEvent-65]    - Tag state with: FIZ_R2/done
 00:48:13.273 INFO  [ExEvent-58]    - Tag state with: FIZ_R3/new
 00:48:14.924 INFO  [Metrics]       - tick 1256, video recoding disabled | 27 source captures, 2705 ms/capture
+00:48:16.925 INFO  [Metrics]       - tick 1257, video recoding disabled | 27 source captures, 2705 ms/capture
