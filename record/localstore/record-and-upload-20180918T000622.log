@@ -10,3 +10,26 @@
 00:06:24.172 INFO  [Upload]        - Uploading file record/localstore/sourcecode_20180918T000623.srcs
 00:06:24.241 INFO  [Upload]        - Finished uploading file record/localstore/sourcecode_20180918T000623.srcs
 00:06:24.343 INFO  [SourceRec]     - Start recording to "sourcecode_20180918T000623.srcs"
+00:06:26.010 INFO  [Metrics]       - tick   2, video recoding disabled |  0 source capture,   0 ms/capture
+00:06:28.010 INFO  [Metrics]       - tick   3, video recoding disabled |  0 source capture,   0 ms/capture
+00:06:30.011 INFO  [Metrics]       - tick   4, video recoding disabled |  1 source capture, 4440 ms/capture
+00:06:32.012 INFO  [Metrics]       - tick   5, video recoding disabled |  1 source capture, 4440 ms/capture
+00:06:34.012 INFO  [Metrics]       - tick   6, video recoding disabled |  1 source capture, 4440 ms/capture
+00:06:36.013 INFO  [Metrics]       - tick   7, video recoding disabled |  1 source capture, 4440 ms/capture
+00:06:38.014 INFO  [Metrics]       - tick   8, video recoding disabled |  1 source capture, 4440 ms/capture
+00:06:40.014 INFO  [Metrics]       - tick   9, video recoding disabled |  1 source capture, 4440 ms/capture
+00:06:42.015 INFO  [Metrics]       - tick  10, video recoding disabled |  1 source capture, 4440 ms/capture
+00:06:44.016 INFO  [Metrics]       - tick  11, video recoding disabled |  1 source capture, 4440 ms/capture
+00:06:46.016 INFO  [Metrics]       - tick  12, video recoding disabled |  1 source capture, 4440 ms/capture
+00:06:48.017 INFO  [Metrics]       - tick  13, video recoding disabled |  1 source capture, 4440 ms/capture
+00:06:50.018 INFO  [Metrics]       - tick  14, video recoding disabled |  1 source capture, 4440 ms/capture
+00:06:52.018 INFO  [Metrics]       - tick  15, video recoding disabled |  1 source capture, 4440 ms/capture
+00:06:54.019 INFO  [Metrics]       - tick  16, video recoding disabled |  1 source capture, 4440 ms/capture
+00:06:56.019 INFO  [Metrics]       - tick  17, video recoding disabled |  1 source capture, 4440 ms/capture
+00:06:58.020 INFO  [Metrics]       - tick  18, video recoding disabled |  1 source capture, 4440 ms/capture
+00:07:00.021 INFO  [Metrics]       - tick  19, video recoding disabled |  1 source capture, 4440 ms/capture
+00:07:02.021 INFO  [Metrics]       - tick  20, video recoding disabled |  1 source capture, 4440 ms/capture
+00:07:04.022 INFO  [Metrics]       - tick  21, video recoding disabled |  1 source capture, 4440 ms/capture
+00:07:06.023 INFO  [Metrics]       - tick  22, video recoding disabled |  1 source capture, 4440 ms/capture
+00:07:07.764 INFO  [ExEvent-17]    - Tag state with: SUM_R1/new
+00:07:08.023 INFO  [Metrics]       - tick  23, video recoding disabled |  1 source capture, 4440 ms/capture
