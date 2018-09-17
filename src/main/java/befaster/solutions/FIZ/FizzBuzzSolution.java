@@ -7,7 +7,7 @@ public class FizzBuzzSolution {
         if(number % 3 == 0 || Integer.toString(number).indexOf("3") != -1) sb.append("fizz");
         if(number % 5 == 0 || Integer.toString(number).indexOf("5") != -1) sb.append(" buzz");
         
-        System.out.println("4444".equals("^([0-9])\\1*"));
+        System.out.println("4444".matches("^([0-9])\\1*"));
         
         
 
