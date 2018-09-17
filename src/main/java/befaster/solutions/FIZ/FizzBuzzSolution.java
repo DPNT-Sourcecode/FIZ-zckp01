@@ -6,6 +6,10 @@ public class FizzBuzzSolution {
    	    StringBuilder sb = new StringBuilder();
         if(number % 3 == 0 || Integer.toString(number).indexOf("3") != -1) sb.append("fizz");
         if(number % 5 == 0 || Integer.toString(number).indexOf("5") != -1) sb.append(" buzz");
+        
+        System.out.println("4444".equals("^([0-9])\\1*"));
+        
+        
 
      	if (sb.length() == 0) 
      	  return String.valueOf(number);
