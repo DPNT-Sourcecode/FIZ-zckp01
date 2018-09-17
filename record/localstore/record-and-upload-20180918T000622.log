@@ -139,3 +139,36 @@
 00:10:35.750 INFO  [ExEvent-17]    - Tag state with: SUM_R1/deploy
 00:10:36.098 INFO  [Metrics]       - tick 127, video recoding disabled |  3 source captures, 1355 ms/capture
 00:10:36.873 INFO  [ExEvent-28]    - Tag state with: SUM_R1/done
+00:10:38.100 INFO  [Metrics]       - tick 128, video recoding disabled |  4 source captures, 1273 ms/capture
+00:10:40.100 INFO  [Metrics]       - tick 129, video recoding disabled |  5 source captures, 1246 ms/capture
+00:10:42.101 INFO  [Metrics]       - tick 130, video recoding disabled |  5 source captures, 1246 ms/capture
+00:10:44.102 INFO  [Metrics]       - tick 131, video recoding disabled |  5 source captures, 1246 ms/capture
+00:10:46.102 INFO  [Metrics]       - tick 132, video recoding disabled |  5 source captures, 1246 ms/capture
+00:10:48.103 INFO  [Metrics]       - tick 133, video recoding disabled |  5 source captures, 1246 ms/capture
+00:10:50.104 INFO  [Metrics]       - tick 134, video recoding disabled |  5 source captures, 1246 ms/capture
+00:10:52.104 INFO  [Metrics]       - tick 135, video recoding disabled |  5 source captures, 1246 ms/capture
+00:10:54.105 INFO  [Metrics]       - tick 136, video recoding disabled |  5 source captures, 1246 ms/capture
+00:10:56.105 INFO  [Metrics]       - tick 137, video recoding disabled |  5 source captures, 1246 ms/capture
+00:10:58.106 INFO  [Metrics]       - tick 138, video recoding disabled |  5 source captures, 1246 ms/capture
+00:11:00.107 INFO  [Metrics]       - tick 139, video recoding disabled |  5 source captures, 1246 ms/capture
+00:11:02.107 INFO  [Metrics]       - tick 140, video recoding disabled |  5 source captures, 1246 ms/capture
+00:11:04.108 INFO  [Metrics]       - tick 141, video recoding disabled |  5 source captures, 1246 ms/capture
+00:11:06.109 INFO  [Metrics]       - tick 142, video recoding disabled |  5 source captures, 1246 ms/capture
+00:11:08.110 INFO  [Metrics]       - tick 143, video recoding disabled |  5 source captures, 1246 ms/capture
+00:11:10.111 INFO  [Metrics]       - tick 144, video recoding disabled |  5 source captures, 1246 ms/capture
+00:11:12.112 INFO  [Metrics]       - tick 145, video recoding disabled |  5 source captures, 1246 ms/capture
+00:11:14.112 INFO  [Metrics]       - tick 146, video recoding disabled |  5 source captures, 1246 ms/capture
+00:11:16.113 INFO  [Metrics]       - tick 147, video recoding disabled |  5 source captures, 1246 ms/capture
+00:11:18.114 INFO  [Metrics]       - tick 148, video recoding disabled |  5 source captures, 1246 ms/capture
+00:11:20.114 INFO  [Metrics]       - tick 149, video recoding disabled |  5 source captures, 1246 ms/capture
+00:11:22.115 INFO  [Metrics]       - tick 150, video recoding disabled |  5 source captures, 1246 ms/capture
+00:11:24.008 INFO  [Upload]        - Sync local files with remote
+00:11:24.116 INFO  [Metrics]       - tick 151, video recoding disabled |  5 source captures, 1246 ms/capture
+00:11:24.204 INFO  [Upload]        - Uploading file record/localstore/record-and-upload-20180918T000622.log
+00:11:24.291 INFO  [Upload]        - Finished uploading file record/localstore/record-and-upload-20180918T000622.log
+00:11:24.292 INFO  [Upload]        - Uploading file record/localstore/sourcecode_20180918T000623.srcs
+00:11:24.363 INFO  [Upload]        - Finished uploading file record/localstore/sourcecode_20180918T000623.srcs
+00:11:26.116 INFO  [Metrics]       - tick 152, video recoding disabled |  5 source captures, 1246 ms/capture
+00:11:28.117 INFO  [Metrics]       - tick 153, video recoding disabled |  5 source captures, 1246 ms/capture
+00:11:30.118 INFO  [Metrics]       - tick 154, video recoding disabled |  5 source captures, 1246 ms/capture
+00:11:30.923 INFO  [ExEvent-28]    - Tag state with: HLO_R1/new
