@@ -357,3 +357,23 @@
 00:17:26.245 INFO  [Metrics]       - tick 332, video recoding disabled |  7 source captures, 1467 ms/capture
 00:17:28.246 INFO  [Metrics]       - tick 333, video recoding disabled |  7 source captures, 1467 ms/capture
 00:17:30.247 INFO  [Metrics]       - tick 334, video recoding disabled |  7 source captures, 1467 ms/capture
+00:17:32.247 INFO  [Metrics]       - tick 335, video recoding disabled |  7 source captures, 1467 ms/capture
+00:17:34.248 INFO  [Metrics]       - tick 336, video recoding disabled |  8 source captures, 2433 ms/capture
+00:17:36.249 INFO  [Metrics]       - tick 337, video recoding disabled |  8 source captures, 2433 ms/capture
+00:17:38.249 INFO  [Metrics]       - tick 338, video recoding disabled |  8 source captures, 2433 ms/capture
+00:17:40.250 INFO  [Metrics]       - tick 339, video recoding disabled |  8 source captures, 2433 ms/capture
+00:17:42.251 INFO  [Metrics]       - tick 340, video recoding disabled |  8 source captures, 2433 ms/capture
+00:17:44.251 INFO  [Metrics]       - tick 341, video recoding disabled |  8 source captures, 2433 ms/capture
+00:17:46.252 INFO  [Metrics]       - tick 342, video recoding disabled |  8 source captures, 2433 ms/capture
+00:17:48.253 INFO  [Metrics]       - tick 343, video recoding disabled |  8 source captures, 2433 ms/capture
+00:17:50.253 INFO  [Metrics]       - tick 344, video recoding disabled |  8 source captures, 2433 ms/capture
+00:17:52.254 INFO  [Metrics]       - tick 345, video recoding disabled |  8 source captures, 2433 ms/capture
+00:17:54.255 INFO  [Metrics]       - tick 346, video recoding disabled |  8 source captures, 2433 ms/capture
+00:17:56.255 INFO  [Metrics]       - tick 347, video recoding disabled |  8 source captures, 2433 ms/capture
+00:17:58.256 INFO  [Metrics]       - tick 348, video recoding disabled |  8 source captures, 2433 ms/capture
+00:18:00.256 INFO  [Metrics]       - tick 349, video recoding disabled |  8 source captures, 2433 ms/capture
+00:18:02.257 INFO  [Metrics]       - tick 350, video recoding disabled |  8 source captures, 2433 ms/capture
+00:18:04.257 INFO  [Metrics]       - tick 351, video recoding disabled |  8 source captures, 2433 ms/capture
+00:18:06.258 INFO  [Metrics]       - tick 352, video recoding disabled |  8 source captures, 2433 ms/capture
+00:18:08.259 INFO  [Metrics]       - tick 353, video recoding disabled |  8 source captures, 2433 ms/capture
+00:18:08.322 INFO  [ExEvent-28]    - Tag state with: HLO_R1/deploy
