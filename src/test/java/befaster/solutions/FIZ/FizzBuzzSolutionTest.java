@@ -16,7 +16,21 @@ public class FizzBuzzSolutionTest {
     }
 
     @Test
-    public void compute_sum() {
-        assertThat(fizz.fizzBuzz(3), equalTo("Hello, John!"));
+    public void fizz() {
+        assertThat(fizz.fizzBuzz(3), equalTo("fizz"));
     }
+
+
+    @Test
+    public void buzz() {
+        assertThat(fizz.fizzBuzz(5), equalTo("buzz"));
+    }
+
+    
+    @Test
+    public void fizz_buzz() {
+        assertThat(fizz.fizzBuzz(15), equalTo("fizz buzz"));
+    }
+    
+    
 }
