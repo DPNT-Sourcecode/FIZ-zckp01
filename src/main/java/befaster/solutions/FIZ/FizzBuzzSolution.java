@@ -9,7 +9,7 @@ public class FizzBuzzSolution {
         if(number % 5 == 0 || num.indexOf("5") != -1) sb.append(" buzz");
         
         if (number > 10 && num.matches("^([0-9])\\1*")) {
-	        if (number % 2 != 0) 
+	        if (number%2 != 0) 
 	        	sb.append(" fake deluxe");
 	        else	
 	        	sb.append(" deluxe");

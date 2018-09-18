@@ -15,6 +15,13 @@ public class FizzBuzzSolutionTest {
     	fizz = new FizzBuzzSolution();
     }
 
+
+//    @Test
+//    public void fizz1() {
+//        assertThat(fizz.fizzBuzz(1), equalTo("1"));
+//    }
+//    
+//    
     @Test
     public void fizz() {
         assertThat(fizz.fizzBuzz(27), equalTo("fizz fake deluxe"));
@@ -27,16 +34,16 @@ public class FizzBuzzSolutionTest {
     }
     
     
-    @Test
-    public void buzz() {
-        assertThat(fizz.fizzBuzz(65), equalTo("buzz fake deluxe"));
-    }
-
-    
-    @Test
-    public void fizz_buzz() {
-        assertThat(fizz.fizzBuzz(555), equalTo("fizz buzz fake deluxe"));
-    }
-    
+//    @Test
+//    public void buzz() {
+//        assertThat(fizz.fizzBuzz(65), equalTo("buzz fake deluxe"));
+//    }
+//
+//    
+//    @Test
+//    public void fizz_buzz() {
+//        assertThat(fizz.fizzBuzz(555), equalTo("fizz buzz fake deluxe"));
+//    }
+//    
     
 }
