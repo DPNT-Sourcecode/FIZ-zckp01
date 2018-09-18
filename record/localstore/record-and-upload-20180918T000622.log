@@ -2259,3 +2259,8 @@ Caused by: java.net.SocketTimeoutException: connect timed out
 01:16:37.563 INFO  [Metrics]       - tick 2107, video recoding disabled | 40 source captures, 3715 ms/capture
 01:16:39.563 INFO  [Metrics]       - tick 2108, video recoding disabled | 40 source captures, 3715 ms/capture
 01:16:41.564 INFO  [Metrics]       - tick 2109, video recoding disabled | 40 source captures, 3715 ms/capture
+01:16:43.564 INFO  [Metrics]       - tick 2110, video recoding disabled | 40 source captures, 3715 ms/capture
+01:16:44.805 INFO  [ExEvent-65]    - Tag state with: FIZ_R4/deploy
+01:16:45.565 INFO  [Metrics]       - tick 2111, video recoding disabled | 40 source captures, 3715 ms/capture
+01:16:46.033 INFO  [ExEvent-95]    - Tag state with: FIZ_R4/done
+01:16:46.072 INFO  [ExEvent-81]    - Tag state with: FIZ_R5/new
