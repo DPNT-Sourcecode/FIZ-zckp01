@@ -17,25 +17,25 @@ public class FizzBuzzSolutionTest {
 
     @Test
     public void fizz() {
-        assertThat(fizz.fizzBuzz(27), equalTo("fizz"));
+        assertThat(fizz.fizzBuzz(27), equalTo("fizz fake deluxe"));
     }
 
 
     @Test
     public void buzz_deluxe() {
-        assertThat(fizz.fizzBuzz(55), equalTo("buzz deluxe"));
+        assertThat(fizz.fizzBuzz(55), equalTo("buzz fake deluxe"));
     }
     
     
     @Test
     public void buzz() {
-        assertThat(fizz.fizzBuzz(65), equalTo("buzz"));
+        assertThat(fizz.fizzBuzz(65), equalTo("buzz fake deluxe"));
     }
 
     
     @Test
     public void fizz_buzz() {
-        assertThat(fizz.fizzBuzz(555), equalTo("fizz buzz deluxe"));
+        assertThat(fizz.fizzBuzz(555), equalTo("fizz buzz fake deluxe"));
     }
     
     
