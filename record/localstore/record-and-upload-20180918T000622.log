@@ -1743,3 +1743,68 @@ Caused by: java.net.SocketTimeoutException: connect timed out
 01:00:13.198 INFO  [Metrics]       - tick 1615, video recoding disabled | 32 source captures, 3592 ms/capture
 01:00:15.199 INFO  [Metrics]       - tick 1616, video recoding disabled | 32 source captures, 3592 ms/capture
 01:00:17.200 INFO  [Metrics]       - tick 1617, video recoding disabled | 32 source captures, 3592 ms/capture
+01:00:19.201 INFO  [Metrics]       - tick 1618, video recoding disabled | 32 source captures, 3592 ms/capture
+01:00:21.201 INFO  [Metrics]       - tick 1619, video recoding disabled | 32 source captures, 3592 ms/capture
+01:00:23.202 INFO  [Metrics]       - tick 1620, video recoding disabled | 33 source captures, 3745 ms/capture
+01:00:25.203 INFO  [Metrics]       - tick 1621, video recoding disabled | 33 source captures, 3745 ms/capture
+01:00:27.203 INFO  [Metrics]       - tick 1622, video recoding disabled | 33 source captures, 3745 ms/capture
+01:00:29.204 INFO  [Metrics]       - tick 1623, video recoding disabled | 33 source captures, 3745 ms/capture
+01:00:31.205 INFO  [Metrics]       - tick 1624, video recoding disabled | 33 source captures, 3745 ms/capture
+01:00:33.205 INFO  [Metrics]       - tick 1625, video recoding disabled | 33 source captures, 3745 ms/capture
+01:00:35.206 INFO  [Metrics]       - tick 1626, video recoding disabled | 33 source captures, 3745 ms/capture
+01:00:37.207 INFO  [Metrics]       - tick 1627, video recoding disabled | 33 source captures, 3745 ms/capture
+01:00:39.208 INFO  [Metrics]       - tick 1628, video recoding disabled | 33 source captures, 3745 ms/capture
+01:00:41.209 INFO  [Metrics]       - tick 1629, video recoding disabled | 33 source captures, 3745 ms/capture
+01:00:43.209 INFO  [Metrics]       - tick 1630, video recoding disabled | 33 source captures, 3745 ms/capture
+01:00:45.210 INFO  [Metrics]       - tick 1631, video recoding disabled | 33 source captures, 3745 ms/capture
+01:00:47.211 INFO  [Metrics]       - tick 1632, video recoding disabled | 33 source captures, 3745 ms/capture
+01:00:49.211 INFO  [Metrics]       - tick 1633, video recoding disabled | 33 source captures, 3745 ms/capture
+01:00:51.213 INFO  [Metrics]       - tick 1634, video recoding disabled | 33 source captures, 3745 ms/capture
+01:00:53.214 INFO  [Metrics]       - tick 1635, video recoding disabled | 33 source captures, 3745 ms/capture
+01:00:55.214 INFO  [Metrics]       - tick 1636, video recoding disabled | 33 source captures, 3745 ms/capture
+01:00:57.215 INFO  [Metrics]       - tick 1637, video recoding disabled | 33 source captures, 3745 ms/capture
+01:00:59.216 INFO  [Metrics]       - tick 1638, video recoding disabled | 33 source captures, 3745 ms/capture
+01:01:01.216 INFO  [Metrics]       - tick 1639, video recoding disabled | 33 source captures, 3745 ms/capture
+01:01:03.217 INFO  [Metrics]       - tick 1640, video recoding disabled | 33 source captures, 3745 ms/capture
+01:01:05.218 INFO  [Metrics]       - tick 1641, video recoding disabled | 33 source captures, 3745 ms/capture
+01:01:07.218 INFO  [Metrics]       - tick 1642, video recoding disabled | 33 source captures, 3745 ms/capture
+01:01:09.219 INFO  [Metrics]       - tick 1643, video recoding disabled | 33 source captures, 3745 ms/capture
+01:01:11.220 INFO  [Metrics]       - tick 1644, video recoding disabled | 33 source captures, 3745 ms/capture
+01:01:13.220 INFO  [Metrics]       - tick 1645, video recoding disabled | 33 source captures, 3745 ms/capture
+01:01:15.221 INFO  [Metrics]       - tick 1646, video recoding disabled | 33 source captures, 3745 ms/capture
+01:01:17.222 INFO  [Metrics]       - tick 1647, video recoding disabled | 33 source captures, 3745 ms/capture
+01:01:19.222 INFO  [Metrics]       - tick 1648, video recoding disabled | 33 source captures, 3745 ms/capture
+01:01:21.223 INFO  [Metrics]       - tick 1649, video recoding disabled | 33 source captures, 3745 ms/capture
+01:01:23.224 INFO  [Metrics]       - tick 1650, video recoding disabled | 33 source captures, 3745 ms/capture
+01:01:24.014 INFO  [Upload]        - Sync local files with remote
+01:01:24.215 INFO  [Upload]        - Uploading file record/localstore/record-and-upload-20180918T000622.log
+01:01:24.300 INFO  [Upload]        - Finished uploading file record/localstore/record-and-upload-20180918T000622.log
+01:01:24.301 INFO  [Upload]        - Uploading file record/localstore/sourcecode_20180918T000623.srcs
+01:01:24.370 INFO  [Upload]        - Finished uploading file record/localstore/sourcecode_20180918T000623.srcs
+01:01:25.225 INFO  [Metrics]       - tick 1651, video recoding disabled | 33 source captures, 3745 ms/capture
+01:01:27.226 INFO  [Metrics]       - tick 1652, video recoding disabled | 33 source captures, 3745 ms/capture
+01:01:29.226 INFO  [Metrics]       - tick 1653, video recoding disabled | 33 source captures, 3745 ms/capture
+01:01:31.227 INFO  [Metrics]       - tick 1654, video recoding disabled | 33 source captures, 3745 ms/capture
+01:01:33.228 INFO  [Metrics]       - tick 1655, video recoding disabled | 33 source captures, 3745 ms/capture
+01:01:35.228 INFO  [Metrics]       - tick 1656, video recoding disabled | 33 source captures, 3745 ms/capture
+01:01:37.229 INFO  [Metrics]       - tick 1657, video recoding disabled | 33 source captures, 3745 ms/capture
+01:01:39.230 INFO  [Metrics]       - tick 1658, video recoding disabled | 33 source captures, 3745 ms/capture
+01:01:41.230 INFO  [Metrics]       - tick 1659, video recoding disabled | 33 source captures, 3745 ms/capture
+01:01:43.231 INFO  [Metrics]       - tick 1660, video recoding disabled | 33 source captures, 3745 ms/capture
+01:01:45.232 INFO  [Metrics]       - tick 1661, video recoding disabled | 33 source captures, 3745 ms/capture
+01:01:47.232 INFO  [Metrics]       - tick 1662, video recoding disabled | 33 source captures, 3745 ms/capture
+01:01:49.233 INFO  [Metrics]       - tick 1663, video recoding disabled | 33 source captures, 3745 ms/capture
+01:01:51.234 INFO  [Metrics]       - tick 1664, video recoding disabled | 33 source captures, 3745 ms/capture
+01:01:53.234 INFO  [Metrics]       - tick 1665, video recoding disabled | 33 source captures, 3745 ms/capture
+01:01:55.235 INFO  [Metrics]       - tick 1666, video recoding disabled | 33 source captures, 3745 ms/capture
+01:01:57.236 INFO  [Metrics]       - tick 1667, video recoding disabled | 33 source captures, 3745 ms/capture
+01:01:59.236 INFO  [Metrics]       - tick 1668, video recoding disabled | 33 source captures, 3745 ms/capture
+01:02:01.237 INFO  [Metrics]       - tick 1669, video recoding disabled | 33 source captures, 3745 ms/capture
+01:02:03.238 INFO  [Metrics]       - tick 1670, video recoding disabled | 33 source captures, 3745 ms/capture
+01:02:05.239 INFO  [Metrics]       - tick 1671, video recoding disabled | 33 source captures, 3745 ms/capture
+01:02:07.240 INFO  [Metrics]       - tick 1672, video recoding disabled | 33 source captures, 3745 ms/capture
+01:02:09.240 INFO  [Metrics]       - tick 1673, video recoding disabled | 33 source captures, 3745 ms/capture
+01:02:11.241 INFO  [Metrics]       - tick 1674, video recoding disabled | 33 source captures, 3745 ms/capture
+01:02:13.242 INFO  [Metrics]       - tick 1675, video recoding disabled | 33 source captures, 3745 ms/capture
+01:02:15.243 INFO  [Metrics]       - tick 1676, video recoding disabled | 33 source captures, 3745 ms/capture
+01:02:16.728 INFO  [ExEvent-58]    - Tag state with: FIZ_R3/deploy
