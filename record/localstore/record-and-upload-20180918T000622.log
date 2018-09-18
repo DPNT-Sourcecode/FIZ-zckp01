@@ -2360,3 +2360,98 @@ Caused by: java.net.SocketTimeoutException: connect timed out
 01:19:53.634 INFO  [Metrics]       - tick 2205, video recoding disabled | 44 source captures, 5882 ms/capture
 01:19:55.634 INFO  [Metrics]       - tick 2206, video recoding disabled | 44 source captures, 5882 ms/capture
 01:19:57.635 INFO  [Metrics]       - tick 2207, video recoding disabled | 44 source captures, 5882 ms/capture
+01:19:59.636 INFO  [Metrics]       - tick 2208, video recoding disabled | 44 source captures, 5882 ms/capture
+01:20:01.636 INFO  [Metrics]       - tick 2209, video recoding disabled | 44 source captures, 5882 ms/capture
+01:20:03.637 INFO  [Metrics]       - tick 2210, video recoding disabled | 44 source captures, 5882 ms/capture
+01:20:05.638 INFO  [Metrics]       - tick 2211, video recoding disabled | 45 source captures, 6019 ms/capture
+01:20:07.639 INFO  [Metrics]       - tick 2212, video recoding disabled | 45 source captures, 6019 ms/capture
+01:20:09.640 INFO  [Metrics]       - tick 2213, video recoding disabled | 45 source captures, 6019 ms/capture
+01:20:11.640 INFO  [Metrics]       - tick 2214, video recoding disabled | 45 source captures, 6019 ms/capture
+01:20:13.641 INFO  [Metrics]       - tick 2215, video recoding disabled | 45 source captures, 6019 ms/capture
+01:20:15.642 INFO  [Metrics]       - tick 2216, video recoding disabled | 45 source captures, 6019 ms/capture
+01:20:17.642 INFO  [Metrics]       - tick 2217, video recoding disabled | 45 source captures, 6019 ms/capture
+01:20:19.643 INFO  [Metrics]       - tick 2218, video recoding disabled | 45 source captures, 6019 ms/capture
+01:20:21.644 INFO  [Metrics]       - tick 2219, video recoding disabled | 45 source captures, 6019 ms/capture
+01:20:23.644 INFO  [Metrics]       - tick 2220, video recoding disabled | 45 source captures, 6019 ms/capture
+01:20:25.645 INFO  [Metrics]       - tick 2221, video recoding disabled | 45 source captures, 6019 ms/capture
+01:20:27.646 INFO  [Metrics]       - tick 2222, video recoding disabled | 45 source captures, 6019 ms/capture
+01:20:29.646 INFO  [Metrics]       - tick 2223, video recoding disabled | 45 source captures, 6019 ms/capture
+01:20:31.647 INFO  [Metrics]       - tick 2224, video recoding disabled | 45 source captures, 6019 ms/capture
+01:20:33.648 INFO  [Metrics]       - tick 2225, video recoding disabled | 45 source captures, 6019 ms/capture
+01:20:35.649 INFO  [Metrics]       - tick 2226, video recoding disabled | 45 source captures, 6019 ms/capture
+01:20:37.650 INFO  [Metrics]       - tick 2227, video recoding disabled | 45 source captures, 6019 ms/capture
+01:20:39.651 INFO  [Metrics]       - tick 2228, video recoding disabled | 45 source captures, 6019 ms/capture
+01:20:41.651 INFO  [Metrics]       - tick 2229, video recoding disabled | 45 source captures, 6019 ms/capture
+01:20:43.652 INFO  [Metrics]       - tick 2230, video recoding disabled | 45 source captures, 6019 ms/capture
+01:20:45.653 INFO  [Metrics]       - tick 2231, video recoding disabled | 45 source captures, 6019 ms/capture
+01:20:47.653 INFO  [Metrics]       - tick 2232, video recoding disabled | 45 source captures, 6019 ms/capture
+01:20:49.654 INFO  [Metrics]       - tick 2233, video recoding disabled | 45 source captures, 6019 ms/capture
+01:20:51.655 INFO  [Metrics]       - tick 2234, video recoding disabled | 45 source captures, 6019 ms/capture
+01:20:53.656 INFO  [Metrics]       - tick 2235, video recoding disabled | 45 source captures, 6019 ms/capture
+01:20:55.657 INFO  [Metrics]       - tick 2236, video recoding disabled | 45 source captures, 6019 ms/capture
+01:20:57.658 INFO  [Metrics]       - tick 2237, video recoding disabled | 45 source captures, 6019 ms/capture
+01:20:59.659 INFO  [Metrics]       - tick 2238, video recoding disabled | 45 source captures, 6019 ms/capture
+01:21:01.660 INFO  [Metrics]       - tick 2239, video recoding disabled | 45 source captures, 6019 ms/capture
+01:21:03.661 INFO  [Metrics]       - tick 2240, video recoding disabled | 45 source captures, 6019 ms/capture
+01:21:05.662 INFO  [Metrics]       - tick 2241, video recoding disabled | 45 source captures, 6019 ms/capture
+01:21:07.663 INFO  [Metrics]       - tick 2242, video recoding disabled | 45 source captures, 6019 ms/capture
+01:21:09.663 INFO  [Metrics]       - tick 2243, video recoding disabled | 45 source captures, 6019 ms/capture
+01:21:11.664 INFO  [Metrics]       - tick 2244, video recoding disabled | 45 source captures, 6019 ms/capture
+01:21:13.665 INFO  [Metrics]       - tick 2245, video recoding disabled | 45 source captures, 6019 ms/capture
+01:21:15.665 INFO  [Metrics]       - tick 2246, video recoding disabled | 45 source captures, 6019 ms/capture
+01:21:17.666 INFO  [Metrics]       - tick 2247, video recoding disabled | 45 source captures, 6019 ms/capture
+01:21:19.667 INFO  [Metrics]       - tick 2248, video recoding disabled | 45 source captures, 6019 ms/capture
+01:21:21.667 INFO  [Metrics]       - tick 2249, video recoding disabled | 45 source captures, 6019 ms/capture
+01:21:23.668 INFO  [Metrics]       - tick 2250, video recoding disabled | 45 source captures, 6019 ms/capture
+01:21:24.017 INFO  [Upload]        - Sync local files with remote
+01:21:24.221 INFO  [Upload]        - Uploading file record/localstore/record-and-upload-20180918T000622.log
+01:21:24.335 INFO  [Upload]        - Finished uploading file record/localstore/record-and-upload-20180918T000622.log
+01:21:24.336 INFO  [Upload]        - Uploading file record/localstore/sourcecode_20180918T000623.srcs
+01:21:25.669 INFO  [Metrics]       - tick 2251, video recoding disabled | 45 source captures, 6019 ms/capture | Uploaded 47.8% of 54.21 MB at 21.662 MB/sec
+01:21:27.669 INFO  [Metrics]       - tick 2252, video recoding disabled | 45 source captures, 6019 ms/capture | Uploaded 50.4% of 54.21 MB at 8.806 MB/sec
+01:21:29.670 INFO  [Metrics]       - tick 2253, video recoding disabled | 45 source captures, 6019 ms/capture | Uploaded 53.1% of 54.21 MB at 5.745 MB/sec
+01:21:31.671 INFO  [Metrics]       - tick 2254, video recoding disabled | 45 source captures, 6019 ms/capture | Uploaded 55.6% of 54.21 MB at 4.359 MB/sec
+01:21:33.672 INFO  [Metrics]       - tick 2255, video recoding disabled | 45 source captures, 6019 ms/capture | Uploaded 58.3% of 54.21 MB at 3.580 MB/sec
+01:21:35.673 INFO  [Metrics]       - tick 2256, video recoding disabled | 45 source captures, 6019 ms/capture | Uploaded 60.9% of 54.21 MB at 3.077 MB/sec
+01:21:37.674 INFO  [Metrics]       - tick 2257, video recoding disabled | 45 source captures, 6019 ms/capture | Uploaded 63.6% of 54.21 MB at 2.727 MB/sec
+01:21:39.675 INFO  [Metrics]       - tick 2258, video recoding disabled | 45 source captures, 6019 ms/capture | Uploaded 66.1% of 54.21 MB at 2.464 MB/sec
+01:21:41.676 INFO  [Metrics]       - tick 2259, video recoding disabled | 45 source captures, 6019 ms/capture | Uploaded 68.8% of 54.21 MB at 2.265 MB/sec
+01:21:43.676 INFO  [Metrics]       - tick 2260, video recoding disabled | 45 source captures, 6019 ms/capture | Uploaded 71.4% of 54.21 MB at 2.108 MB/sec
+01:21:45.677 INFO  [Metrics]       - tick 2261, video recoding disabled | 45 source captures, 6019 ms/capture | Uploaded 74.0% of 54.21 MB at 1.979 MB/sec
+01:21:47.678 INFO  [Metrics]       - tick 2262, video recoding disabled | 45 source captures, 6019 ms/capture | Uploaded 76.7% of 54.21 MB at 1.873 MB/sec
+01:21:49.678 INFO  [Metrics]       - tick 2263, video recoding disabled | 45 source captures, 6019 ms/capture | Uploaded 79.3% of 54.21 MB at 1.785 MB/sec
+01:21:51.679 INFO  [Metrics]       - tick 2264, video recoding disabled | 45 source captures, 6019 ms/capture | Uploaded 82.0% of 54.21 MB at 1.710 MB/sec
+01:21:53.680 INFO  [Metrics]       - tick 2265, video recoding disabled | 45 source captures, 6019 ms/capture | Uploaded 84.4% of 54.21 MB at 1.640 MB/sec
+01:21:55.681 INFO  [Metrics]       - tick 2266, video recoding disabled | 45 source captures, 6019 ms/capture | Uploaded 87.1% of 54.21 MB at 1.583 MB/sec
+01:21:57.682 INFO  [Metrics]       - tick 2267, video recoding disabled | 45 source captures, 6019 ms/capture | Uploaded 89.7% of 54.21 MB at 1.534 MB/sec
+01:21:59.683 INFO  [Metrics]       - tick 2268, video recoding disabled | 45 source captures, 6019 ms/capture | Uploaded 92.2% of 54.21 MB at 1.487 MB/sec
+01:21:59.785 INFO  [Upload]        - Finished uploading file record/localstore/sourcecode_20180918T000623.srcs
+01:22:01.683 INFO  [Metrics]       - tick 2269, video recoding disabled | 45 source captures, 6019 ms/capture
+01:22:03.684 INFO  [Metrics]       - tick 2270, video recoding disabled | 45 source captures, 6019 ms/capture
+01:22:05.685 INFO  [Metrics]       - tick 2271, video recoding disabled | 45 source captures, 6019 ms/capture
+01:22:07.685 INFO  [Metrics]       - tick 2272, video recoding disabled | 45 source captures, 6019 ms/capture
+01:22:09.686 INFO  [Metrics]       - tick 2273, video recoding disabled | 45 source captures, 6019 ms/capture
+01:22:11.687 INFO  [Metrics]       - tick 2274, video recoding disabled | 45 source captures, 6019 ms/capture
+01:22:13.688 INFO  [Metrics]       - tick 2275, video recoding disabled | 45 source captures, 6019 ms/capture
+01:22:15.689 INFO  [Metrics]       - tick 2276, video recoding disabled | 45 source captures, 6019 ms/capture
+01:22:17.690 INFO  [Metrics]       - tick 2277, video recoding disabled | 45 source captures, 6019 ms/capture
+01:22:19.691 INFO  [Metrics]       - tick 2278, video recoding disabled | 45 source captures, 6019 ms/capture
+01:22:21.692 INFO  [Metrics]       - tick 2279, video recoding disabled | 45 source captures, 6019 ms/capture
+01:22:23.693 INFO  [Metrics]       - tick 2280, video recoding disabled | 45 source captures, 6019 ms/capture
+01:22:25.694 INFO  [Metrics]       - tick 2281, video recoding disabled | 45 source captures, 6019 ms/capture
+01:22:27.695 INFO  [Metrics]       - tick 2282, video recoding disabled | 45 source captures, 6019 ms/capture
+01:22:29.695 INFO  [Metrics]       - tick 2283, video recoding disabled | 45 source captures, 6019 ms/capture
+01:22:31.696 INFO  [Metrics]       - tick 2284, video recoding disabled | 45 source captures, 6019 ms/capture
+01:22:33.697 INFO  [Metrics]       - tick 2285, video recoding disabled | 45 source captures, 6019 ms/capture
+01:22:35.697 INFO  [Metrics]       - tick 2286, video recoding disabled | 45 source captures, 6019 ms/capture
+01:22:37.698 INFO  [Metrics]       - tick 2287, video recoding disabled | 45 source captures, 6019 ms/capture
+01:22:39.699 INFO  [Metrics]       - tick 2288, video recoding disabled | 45 source captures, 6019 ms/capture
+01:22:41.699 INFO  [Metrics]       - tick 2289, video recoding disabled | 45 source captures, 6019 ms/capture
+01:22:43.700 INFO  [Metrics]       - tick 2290, video recoding disabled | 45 source captures, 6019 ms/capture
+01:22:45.701 INFO  [Metrics]       - tick 2291, video recoding disabled | 45 source captures, 6019 ms/capture
+01:22:47.701 INFO  [Metrics]       - tick 2292, video recoding disabled | 45 source captures, 6019 ms/capture
+01:22:49.702 INFO  [Metrics]       - tick 2293, video recoding disabled | 45 source captures, 6019 ms/capture
+01:22:51.703 INFO  [Metrics]       - tick 2294, video recoding disabled | 45 source captures, 6019 ms/capture
+01:22:53.704 INFO  [Metrics]       - tick 2295, video recoding disabled | 45 source captures, 6019 ms/capture
+01:22:55.705 INFO  [Metrics]       - tick 2296, video recoding disabled | 45 source captures, 6019 ms/capture
+01:22:57.705 INFO  [Metrics]       - tick 2297, video recoding disabled | 45 source captures, 6019 ms/capture

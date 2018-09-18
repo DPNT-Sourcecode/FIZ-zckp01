@@ -16,12 +16,10 @@ public class FizzBuzzSolution {
         if(number % 3 == 0 || num.indexOf("3") != -1) sb.append("fizz deluxe");
         if(number % 5 == 0 || num.indexOf("5") != -1) sb.append(" buzz deluxe");
         
-        if (number > 10 && num.matches("^([0-9])\\1*")) {
-	        if (number%2 != 0) 
-	        	sb.append(" fake deluxe");
-	        else	
-	        	sb.append(" deluxe");
-        }    
+        if (number%2 != 0) 
+        	sb.append(" fake deluxe");
+        else	
+        	sb.append(" deluxe");
         
      	if (sb.length() == 0) 
      	  return String.valueOf(number);
