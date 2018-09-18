@@ -1808,3 +1808,7 @@ Caused by: java.net.SocketTimeoutException: connect timed out
 01:02:13.242 INFO  [Metrics]       - tick 1675, video recoding disabled | 33 source captures, 3745 ms/capture
 01:02:15.243 INFO  [Metrics]       - tick 1676, video recoding disabled | 33 source captures, 3745 ms/capture
 01:02:16.728 INFO  [ExEvent-58]    - Tag state with: FIZ_R3/deploy
+01:02:17.244 INFO  [Metrics]       - tick 1677, video recoding disabled | 33 source captures, 3745 ms/capture
+01:02:17.899 INFO  [ExEvent-81]    - Tag state with: FIZ_R3/done
+01:02:17.933 INFO  [ExEvent-65]    - Tag state with: FIZ_R4/new
+01:02:19.245 INFO  [Metrics]       - tick 1678, video recoding disabled | 33 source captures, 3745 ms/capture
