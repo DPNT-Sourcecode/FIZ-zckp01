@@ -1,14 +1,14 @@
 -------------------------------------------------------------------------------
 Test set: befaster.solutions.FIZ.FizzBuzzSolutionTest
 -------------------------------------------------------------------------------
-Tests run: 7, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.076 sec <<< FAILURE!
-buzz(befaster.solutions.FIZ.FizzBuzzSolutionTest)  Time elapsed: 0.006 sec  <<< FAILURE!
+Tests run: 7, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.073 sec <<< FAILURE!
+fizz_buzz(befaster.solutions.FIZ.FizzBuzzSolutionTest)  Time elapsed: 0.009 sec  <<< FAILURE!
 java.lang.AssertionError: 
-Expected: "buzz"
+Expected: "fizz buzz fake deluxe"
      but: was "buzz fake deluxe"
 	at org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:20)
 	at org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:8)
-	at befaster.solutions.FIZ.FizzBuzzSolutionTest.buzz(FizzBuzzSolutionTest.java:39)
+	at befaster.solutions.FIZ.FizzBuzzSolutionTest.fizz_buzz(FizzBuzzSolutionTest.java:45)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -43,7 +43,7 @@ Expected: "buzz"
 fizz(befaster.solutions.FIZ.FizzBuzzSolutionTest)  Time elapsed: 0 sec  <<< FAILURE!
 java.lang.AssertionError: 
 Expected: "fizz"
-     but: was "fizz fake deluxe"
+     but: was "27"
 	at org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:20)
 	at org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:8)
 	at befaster.solutions.FIZ.FizzBuzzSolutionTest.fizz(FizzBuzzSolutionTest.java:27)

@@ -14,11 +14,11 @@ public class FizzBuzzSolution {
     	String num = Integer.toString(number);
     	boolean isDeluxe = false;
    	    StringBuilder sb = new StringBuilder();
-        if(number % 3 == 0 || num.indexOf("3") != -1) {
+        if(number % 3 == 0 && num.indexOf("3") != -1) {
         	sb.append("fizz");
         	isDeluxe = true;
         }
-        if(number % 5 == 0 || num.indexOf("5") != -1) {
+        if(number % 5 == 0 && num.indexOf("5") != -1) {
         	sb.append(" buzz");
         	isDeluxe = true;
         }
